@@ -79,9 +79,9 @@ const MeetingFooter = (props) => {
       >
         <FontAwesomeIcon icon={faDesktop} />
       </div>
-      <div className="meeting-icons">
+      {/* <div className="meeting-icons">
         <FontAwesomeIcon icon={faCommentAlt} />
-      </div>
+      </div> */}
       <ReactTooltip />
     </div>
   );
