@@ -1,9 +1,9 @@
 import firebase from "firebase";
 
 var firebaseConfig = {
-  apiKey: "AIzaSyB-iJK8924Znp0ZV2IiXdkIz1bfb2XHxJQ", // Add API Key
+  apiKey: "AIzaSyASetXjTqj2IeFCl8F0lciUxaSsP86kFZg", // Add API Key
   databaseURL:
-    "https://video-meet-bc5ec-default-rtdb.asia-southeast1.firebasedatabase.app/", // Add databaseURL
+    "https://group-video-chat-cff3e-default-rtdb.asia-southeast1.firebasedatabase.app/", // Add databaseURL
 };
 // Initialize Firebase
 firebase.initializeApp(firebaseConfig);
